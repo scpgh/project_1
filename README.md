@@ -1,2 +1,2 @@
 # project_1
-My first GIT repos
+My first GIT repo
