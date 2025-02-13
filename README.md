@@ -1,2 +1,4 @@
 # project_1
-My first GIT repo
+My first GIT repo.
+Author- Srichaitanya Panda
+........
